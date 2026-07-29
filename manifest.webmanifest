@@ -1,0 +1,13 @@
+{
+  "name": "青禾 AI 冰箱管家",
+  "short_name": "青禾",
+  "description": "个人 AI 厨房助手与减脂饮食管家",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#f5f2e9",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
